@@ -1,0 +1,32 @@
+
+
+                   ▄▄   ▄ ▄▄▄▄▄ ▄▄▄▄▄▄  ▄▄▄▄▄▄ ▄▄▄▄▄▄▐▄▄▄▄▄ ▄▄▄▄▄▄
+
+                  ▐▓▐▓ ▐▓   ▓     ▓▓    ▓░  ▐▓ ▄▄▄▄▄▓   ▓   ▄▄▄▄▓▓
+
+                  ▐▓ ▐▓▐▓   ▓     ▓▓    ▓▒  ▐▓░▓▌  ▐▓   ▓  ▐▓▒  ▐▓
+
+                   ▀   ▀▀   ▀     ▀▀    ▀▀▀▀▀   ▀▀▀▀▀   ▀    ▀▀▀▀▀
+                   
+                   
+                   
+                   
+                   
+
+proyecto semana1
+
+
+
+
+
+inhtegrantes:
+Segundo william Guzman Correa
+Joffre Hermosilla Salas
+
+
+
+
+
+
+MICROSERVICIO GATEWAY
+                  
