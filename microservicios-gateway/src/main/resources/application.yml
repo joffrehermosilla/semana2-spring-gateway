@@ -3,7 +3,7 @@ spring:
     location: classpath:banner/banner.txt
     image:
      location: classpath:fotocreador/microservicios.png
-  config:
+#  config:
     import: optional:configserver:http://localhost:7000
   cloud:
     config:
